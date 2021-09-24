@@ -143,7 +143,7 @@ Note: In one of the tests, the recorder seems to be freezes and lagging, I repea
 
 # Contacts
 
-Telegram: <https://t.me/cacule_sched>
+Telegram: <https://t.me/cacule_community>
 
 # Discussions
 
